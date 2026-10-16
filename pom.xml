@@ -34,7 +34,7 @@
         <artifactId>exec-maven-plugin</artifactId>
         <version>3.6.4</version>
         <configuration>
-          <mainClass>com.mypackage.quanlinv</mainClass>
+          <mainClass>com.mypackage.qlpt</mainClass>
         </configuration>
       </plugin>
     </plugins>
